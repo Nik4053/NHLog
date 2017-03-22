@@ -3,16 +3,19 @@ An easy to use fully functioning logger. Just import it and you are ready to log
 No setup required.
 Check the documentation for more info. 
 
-Here the first part of the LOGGER class documentation:
+You can find the already built .jar in the /jar/ directory.
 
 
- @version 1.0.170322
- @author Nik4053
+
+ version: 1.0.170322
+ author: Nik4053
 
 Created with the help of this tutorial:
 {@link http://www.vogella.com/tutorials/Logging/article.html}
 
 And is therefore released under Eclipse Public License - v 1.0
+
+Here the first part of the LOGGER class documentation:
  ____________________________________________________________________________
           This class is used for creating the Logger.
           Setup:
