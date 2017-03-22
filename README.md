@@ -69,3 +69,5 @@ And is therefore released under Eclipse Public License - v 1.0
           LOGGER.logger.log(Level.INFO,"StartMethod: " +
           Thread.currentThread().getStackTrace()[1].getClassName() + " " +
           Thread.currentThread().getStackTrace()[1].getMethodName() + "()");
+          
+License: Released under Eclipse Public License - v 1.0
