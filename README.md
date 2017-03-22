@@ -1,7 +1,7 @@
 # NHLog
 An easy to use fully functioning logger. Just import it and you are ready to log. 
 No setup required.
-Check the documentation for more info. 
+Check the documentation for more info. https://nik4053.github.io/NHLog/index.html
 
 You can find the already built .jar in the /jar/ directory.
 
