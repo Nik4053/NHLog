@@ -15,6 +15,7 @@ Created with the help of this tutorial:
 
 And is therefore released under Eclipse Public License - v 1.0
 
+INFO: If you can not find your logs check if you have a folder called logs/html and logs/log !!!!!
 Here the first part of the LOGGER class documentation:
  ____________________________________________________________________________
           This class is used for creating the Logger.
