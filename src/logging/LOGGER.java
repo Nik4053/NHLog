@@ -1,5 +1,5 @@
 /**
- * test sa
+ * stop
  */
 package logging;
 
@@ -12,7 +12,7 @@ import java.util.Date;
 import java.util.ArrayList;
 
 /**
- * -wasd
+ * -wasrsa
  * @version 1.0.170322
  * @author Nik4053
  *         <p>
