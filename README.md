@@ -1,7 +1,14 @@
 # NHLog
-![NPM Version][npm-image]][npm-url]
+# Product Name
+> Short blurb about what your product does.
+
+[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+
+One to two paragraph statement about your product and what it does.
+
+![](header.png)
 An easy to use fully functioning logger. Just import it and you are ready to log. 
 No setup required.
 Check the documentation for more info. https://nik4053.github.io/NHLogJava/index.html
