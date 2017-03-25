@@ -1,4 +1,7 @@
 # NHLog
+![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 An easy to use fully functioning logger. Just import it and you are ready to log. 
 No setup required.
 Check the documentation for more info. https://nik4053.github.io/NHLogJava/index.html
