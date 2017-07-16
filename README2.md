@@ -21,4 +21,4 @@ how doas a logger work
 Niklas Heidenreich - @email
 
 ## License
--none-
+Distributed under the MIT license. See ``LICENSE`` for more information.
