@@ -9,6 +9,9 @@ For more Information see the wiki
 ## Usage example
  -none-
 ## Development setup
+### Dependencies
+* krpc 2.8 and its dependencies
+
 no tests
 how doas a logger work
 
