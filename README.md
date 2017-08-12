@@ -10,7 +10,7 @@ You can find the already built .jar in the /jar/ directory.
 
 
 
- version: 1.0.170322
+ version: 1.1.170812
  author: Nik4053
 
 Created with the help of this tutorial:
