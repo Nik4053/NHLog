@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.ArrayList;
 
 /**
- * @version 1.0.170510
+ * @version 1.1.170812
  * @author Niklas Heidenreich
  *         <p>
  *         Created with the help of this tutorial:
