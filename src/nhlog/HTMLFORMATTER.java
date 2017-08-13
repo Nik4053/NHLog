@@ -14,7 +14,6 @@ import java.util.logging.Level;
 
 // 
 /**
- * @version 1.0.170510
  * @author Niklas Heidenreich
  *         <p>
  *         Created with the help of this tutorial:

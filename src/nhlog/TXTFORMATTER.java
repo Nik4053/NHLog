@@ -11,7 +11,6 @@ import java.util.logging.Formatter;
 import java.util.logging.LogRecord;
 
 /**
- * @version 1.0.170510
  * @author Niklas Heidenreich
  * The formatter for the .log files.
  * Uses the java.util.logging.SimpleFormater as base
